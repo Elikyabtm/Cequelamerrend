@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brunehame dark theme — slate, petrol blue, earthy brown, ember orange */
+    --background: 220 15% 8%;
+    --foreground: 40 15% 85%;
+    --card: 220 12% 11%;
+    --card-foreground: 40 15% 85%;
+    --popover: 220 12% 11%;
+    --popover-foreground: 40 15% 85%;
+    --primary: 25 85% 50%;
+    --primary-foreground: 220 15% 8%;
+    --secondary: 200 35% 18%;
+    --secondary-foreground: 40 15% 85%;
+    --muted: 220 10% 15%;
+    --muted-foreground: 220 10% 55%;
+    --accent: 25 85% 50%;
+    --accent-foreground: 220 15% 8%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 220 10% 18%;
+    --input: 220 10% 18%;
+    --ring: 25 85% 50%;
+    --radius: 0.25rem;
+
+    --ember: 25 85% 50%;
+    --petrol: 200 35% 22%;
+    --slate-rock: 220 10% 25%;
+    --parchment: 40 25% 88%;
+    --earth: 30 25% 20%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(220 15% 8%);
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(220 10% 25%);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(25 85% 50%);
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: hsl(25 85% 50% / 0.3);
+  color: hsl(40 25% 88%);
+}
