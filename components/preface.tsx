@@ -34,7 +34,7 @@ export function Preface() {
           }`}
         >
           <span className="font-serif text-xs uppercase tracking-[0.4em] text-primary">
-            Preface
+            Préface
           </span>
           <div className="mx-auto mt-4 h-px w-24 bg-primary/40" />
         </div>
@@ -47,17 +47,17 @@ export function Preface() {
         >
           <p className="first-letter:float-left first-letter:mr-3 first-letter:font-serif first-letter:text-6xl first-letter:leading-none first-letter:text-primary">
             {
-              "Le fer a une memoire. Il se souvient du feu de la forge, du choc des lames et de l'odeur de la peur. Mais le fer ne connait rien de la patience. Il ignore le temps qu'il faut a une graine pour percer la terre ou a une blessure pour devenir une cicatrice."
+              "Le fer a une mémoire. Il se souvient du feu de la forge, du choc des lames et de l'odeur de la peur. Mais le fer ne connaît rien de la patience. Il ignore le temps qu'il faut à une graine pour percer la terre ou à une blessure pour devenir une cicatrice."
             }
           </p>
           <p>
             {
-              "Ce recit est ne d'un contraste : celui d'un homme qui ne savait que detruire et d'une femme qui ne savait que recoudre. A Brunehame, l'ile oubliee des rois, la maree ne rapporte jamais par hasard. Elle ne se contente pas de rejeter des debris ; elle rend des destins brises pour voir si nous sommes capables de les reparer."
+              "Ce récit est né d'un contraste : celui d'un homme qui ne savait que détruire et d'une femme qui ne savait que recoudre. À Brunehame, l'île oubliée des rois, la marée ne rapporte jamais par hasard. Elle ne se contente pas de rejeter des débris ; elle rend des destins brisés pour voir si nous sommes capables de les réparer."
             }
           </p>
           <p>
             {
-              "En tournant ces pages, vous sentirez le sel mordre vos levres et le vent hurler contre les falaises. Vous decouvrirez qu'entre le tumulte des guerres et le silence des sillons, il existe un espace fragile ou la redemption n'est pas un pardon accorde par les hommes, mais un pacte scelle avec la terre."
+              "En tournant ces pages, vous sentirez le sel mordre vos lèvres et le vent hurler contre les falaises. Vous découvrirez qu'entre le tumulte des guerres et le silence des sillons, il existe un espace fragile où la rédemption n'est pas un pardon accordé par les hommes, mais un pacte scellé avec la terre."
             }
           </p>
         </div>

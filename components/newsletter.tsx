@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react"
+import React from "react";
 
 import { useEffect, useRef, useState } from "react";
 
@@ -38,11 +38,11 @@ export function Newsletter() {
           Les nouvelles du large
         </span>
         <h2 className="mt-4 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-          Recevez des extraits comme des lettres retrouvees
+          Recevez des extraits comme des lettres retrouvées
         </h2>
         <p className="mt-4 text-muted-foreground leading-relaxed">
           {
-            "Des fragments du recit de Brunehame, livres par la maree, directement dans votre boite aux lettres."
+            "Des fragments du récit de Brunehame, livrés par la marée, directement dans votre boîte aux lettres."
           }
         </p>
         <div className="mx-auto mt-6 h-px w-24 bg-primary/40" />
@@ -63,17 +63,17 @@ export function Newsletter() {
                 type="submit"
                 className="border border-primary/40 bg-primary/10 px-8 py-4 font-serif text-sm uppercase tracking-[0.3em] text-primary transition-all duration-300 hover:bg-primary/20 hover:border-primary/60"
               >
-                S'abonner
+                {"S'abonner"}
               </button>
             </div>
           </form>
         ) : (
           <div className="mt-12 border border-primary/30 bg-primary/5 p-8">
             <p className="font-serif text-lg text-primary">
-              La maree vous portera nos nouvelles.
+              La marée vous portera nos nouvelles.
             </p>
             <p className="mt-2 text-sm text-muted-foreground">
-              Surveillez votre boite aux lettres.
+              Surveillez votre boîte aux lettres.
             </p>
           </div>
         )}

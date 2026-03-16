@@ -6,27 +6,27 @@ import Image from "next/image";
 const characters = [
   {
     name: "Edrin du Val Pourpre",
-    title: "L'Echoue",
-    image: "/images/edrin-armor.jpg",
-    imageAlt: "Armure rouillée et épée brisée sur le sable",
-    objects: ["Un espadon brise", "Une bourse de graines d'orge"],
-    scars: "Des cicatrices que le sel commence a rouvrir",
+    title: "L'Échoué",
+    image: "/images/edrin.png",
+    imageAlt: "Edrin du Val Pourpre, chevalier balafré en armure rouillée",
+    objects: ["Un espadon brisé", "Une bourse de graines d'orge"],
+    scars: "Des cicatrices que le sel commence à rouvrir",
     quote:
-      "Je n'ai jamais ete un voleur. Pour l'instant, tu n'es qu'une ombre.",
+      "Je n'ai jamais été un voleur. Pour l'instant, tu n'es qu'une ombre.",
     description:
-      "Chevalier naufrage, rejete par la mer sur les cotes de Brunehame. Ses mains, faites pour broyer, vont devoir apprendre a semer. Le fer l'a tenu ensemble. Maintenant, c'est le fer qui va le tuer si on ne le libere pas.",
+      "Chevalier naufragé, rejeté par la mer sur les côtes de Brunehame. Ses mains, faites pour broyer, vont devoir apprendre à semer. Le fer l'a tenu ensemble. Maintenant, c'est le fer qui va le tuer si on ne le libère pas.",
   },
   {
     name: "Alma",
     title: "La Soigneuse",
-    image: "/images/alma-hands.jpg",
-    imageAlt: "Mains broyant des herbes dans un mortier de pierre",
+    image: "/images/alma.png",
+    imageAlt: "Alma la soigneuse, herboriste de Brunehame",
     objects: ["Une dague d'obsidienne", "Un mortier de pierre"],
-    scars: "Celle qui appartient a tout le monde et a personne",
+    scars: "Celle qui appartient à tout le monde et à personne",
     quote:
-      "Je voulais voir si un Lion pouvait apprendre a aimer la terre.",
+      "Je voulais voir si un Lion pouvait apprendre à aimer la terre.",
     description:
-      "Gardienne des remedes de Brunehame, trouvee elle aussi dans une nacelle de bois apres un naufrage. Elevee par Maela, elle porte le baton de soin. Ses mains connaissent la consoude, le millepertuis et les secrets de la vieille herboriste.",
+      "Gardienne des remèdes de Brunehame, trouvée elle aussi dans une nacelle de bois après un naufrage. Élevée par Maëla, elle porte le bâton de soin. Ses mains connaissent la consoude, le millepertuis et les secrets de la vieille herboriste.",
   },
 ];
 
@@ -60,7 +60,7 @@ export function Characters() {
           Les Personnages
         </h2>
         <p className="mx-auto mt-4 max-w-lg text-muted-foreground">
-          Presentes par leurs objets et leurs cicatrices
+          Présentés par leurs objets et leurs cicatrices
         </p>
         <div className="mx-auto mt-6 h-px w-24 bg-primary/40" />
       </div>

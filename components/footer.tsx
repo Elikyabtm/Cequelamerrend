@@ -19,7 +19,7 @@ export function Footer() {
               href="#preface"
               className="text-xs uppercase tracking-[0.2em] text-muted-foreground transition-colors hover:text-primary"
             >
-              Preface
+              Préface
             </a>
             <a
               href="/chapitres"
@@ -48,10 +48,10 @@ export function Footer() {
         {/* Bottom */}
         <div className="flex flex-col items-center gap-4 md:flex-row md:justify-between">
           <p className="text-xs text-muted-foreground">
-            {"La maree ne rend jamais seulement du bois flotte. Elle rend des destins."}
+            {"La marée ne rend jamais seulement du bois flotté. Elle rend des destins."}
           </p>
           <p className="text-xs text-muted-foreground/60">
-            {"Brunehame, l'ile oubliee des rois"}
+            {"Brunehame, l'île oubliée des rois"}
           </p>
         </div>
       </div>

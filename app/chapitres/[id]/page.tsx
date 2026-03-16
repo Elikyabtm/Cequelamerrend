@@ -17,9 +17,9 @@ export async function generateMetadata({
   if (!chapter) return { title: "Chapitre introuvable" };
   const label =
     chapter.number === 0
-      ? "Preface"
+      ? "Préface"
       : chapter.number === 99
-        ? "Epilogue"
+        ? "Épilogue"
         : `Chapitre ${chapter.number}`;
   return {
     title: `${label} : ${chapter.title} | Ce que la mer rend`,
@@ -43,9 +43,9 @@ export default async function ChapterPage({
 
   const label =
     chapter.number === 0
-      ? "Preface"
+      ? "Préface"
       : chapter.number === 99
-        ? "Epilogue"
+        ? "Épilogue"
         : `Chapitre ${chapter.number}`;
 
   return (
@@ -152,9 +152,9 @@ export default async function ChapterPage({
               <div className="text-left">
                 <div className="text-xs uppercase tracking-[0.2em]">
                   {prev.number === 0
-                    ? "Preface"
+                    ? "Préface"
                     : prev.number === 99
-                      ? "Epilogue"
+                      ? "Épilogue"
                       : `Chapitre ${prev.number}`}
                 </div>
                 <div className="mt-1 font-serif text-sm tracking-wide text-foreground">
@@ -181,9 +181,9 @@ export default async function ChapterPage({
               <div className="text-right">
                 <div className="text-xs uppercase tracking-[0.2em]">
                   {next.number === 0
-                    ? "Preface"
+                    ? "Préface"
                     : next.number === 99
-                      ? "Epilogue"
+                      ? "Épilogue"
                       : `Chapitre ${next.number}`}
                 </div>
                 <div className="mt-1 font-serif text-sm tracking-wide text-foreground">

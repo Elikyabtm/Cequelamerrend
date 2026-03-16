@@ -4,21 +4,21 @@ import { useEffect, useRef, useState } from "react";
 
 const quotes: Record<string, string[]> = {
   destruction: [
-    "Le fer a une memoire. Il se souvient du feu de la forge.",
-    "Ces gens-la ne viennent jamais seuls. S'il est ici, d'autres suivront.",
-    "Le destin porte une epee, Alma !",
+    "Le fer a une mémoire. Il se souvient du feu de la forge.",
+    "Ces gens-là ne viennent jamais seuls. S'il est ici, d'autres suivront.",
+    "Le destin porte une épée, Alma !",
     "La peur est une herbe qui pousse vite sur un sol pauvre.",
   ],
   neutral: [
-    "La maree ne rend jamais seulement du bois flotte. Elle rend des destins.",
-    "Sur un radeau, on finit toujours par voir arriver ce qu'on n'a pas invite.",
+    "La marée ne rend jamais seulement du bois flotté. Elle rend des destins.",
+    "Sur un radeau, on finit toujours par voir arriver ce qu'on n'a pas invité.",
     "Brunehame a besoin de savoir qu'il existe autre chose que le vent et le sel.",
-    "Le silence qui s'installa n'etait plus celui de la mefiance.",
+    "Le silence qui s'installa n'était plus celui de la méfiance.",
   ],
   repair: [
     "La peau finit toujours par gagner.",
-    "On ne soigne pas une ame sous une armure.",
-    "Je voulais voir si un Lion pouvait apprendre a aimer la terre.",
+    "On ne soigne pas une âme sous une armure.",
+    "Je voulais voir si un Lion pouvait apprendre à aimer la terre.",
     "Ces mains n'ont jamais rien tenu de doux.",
   ],
 };
@@ -65,13 +65,13 @@ export function BalanceSlider() {
           }`}
         >
           <span className="font-serif text-xs uppercase tracking-[0.4em] text-primary">
-            Le theme central
+            Le thème central
           </span>
           <h2 className="mt-4 font-serif text-4xl tracking-wide text-foreground md:text-5xl text-balance">
-            {"L'Equilibre"}
+            {"L'Équilibre"}
           </h2>
           <p className="mx-auto mt-4 max-w-lg text-muted-foreground">
-            Deplacez le curseur entre Destruction et Reparation
+            Déplacez le curseur entre Destruction et Réparation
           </p>
           <div className="mx-auto mt-6 h-px w-24 bg-primary/40" />
         </div>
@@ -111,7 +111,7 @@ export function BalanceSlider() {
                 className="font-serif text-sm uppercase tracking-[0.2em]"
                 style={{ color: rightColor }}
               >
-                Reparation
+                Réparation
               </span>
               <svg
                 className="h-6 w-6"
@@ -146,7 +146,7 @@ export function BalanceSlider() {
               value={value}
               onChange={(e) => setValue(Number(e.target.value))}
               className="absolute inset-0 w-full cursor-pointer opacity-0"
-              aria-label="Equilibre entre destruction et reparation"
+              aria-label="Équilibre entre destruction et réparation"
             />
             {/* Thumb indicator */}
             <div
@@ -166,7 +166,7 @@ export function BalanceSlider() {
                   ? "Le Fer"
                   : category === "repair"
                     ? "La Terre"
-                    : "La Maree"}
+                    : "La Marée"}
               </footer>
             </blockquote>
           </div>

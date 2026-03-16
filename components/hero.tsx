@@ -41,7 +41,7 @@ export function Hero() {
         >
           <div className="h-px w-16 bg-primary/60" />
           <span className="font-serif text-xs uppercase tracking-[0.4em] text-primary">
-            Un recit de Brunehame
+            Un récit de Brunehame
           </span>
           <div className="h-px w-16 bg-primary/60" />
         </div>
@@ -64,7 +64,7 @@ export function Hero() {
           }`}
         >
           {
-            '"Le fer a une memoire. Il se souvient du feu de la forge, du choc des lames et de l\'odeur de la peur. Mais le fer ne connait rien de la patience."'
+            '"Le fer a une mémoire. Il se souvient du feu de la forge, du choc des lames et de l\'odeur de la peur. Mais le fer ne connaît rien de la patience."'
           }
         </blockquote>
 
@@ -75,7 +75,7 @@ export function Hero() {
             isVisible ? "opacity-100" : "opacity-0 translate-y-8"
           }`}
         >
-          Entrer dans la chaumiere
+          Entrer dans la chaumière
           <svg
             className="h-4 w-4 transition-transform group-hover:translate-y-1"
             fill="none"

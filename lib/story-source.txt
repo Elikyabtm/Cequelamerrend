@@ -12,7 +12,7 @@ La voix de Maëla s’éleva du recoin sombre de la pièce, une voix qui semblai
 — Elle a beaucoup crié, en effet, répondit Alma en versant de l’eau dans la marmite de bronze.
 — Elle ne crie pas pour rien. Elle déracine. Elle déplace les frontières.
 Maëla fit un geste de ses mains déformées par l’arthrose, des mains qui ressemblaient à des racines de bruyère torturées par le sel. Elle fit signe à Alma de s’approcher.
-— Écoute-moi, petite. Tu as vingt-cinq étés, et tu crois que l’île est une forteresse. Tu crois que nous sommes à l’abri parce que les rochers de la passe déchirent les navires. Mais Brunehame n’est qu’un radeau. Et sur un radeau, on finit toujours par voir arriver ce qu’on n'a pas invité.
+— Écoute-moi, petite. Tu as vingt étés, et tu crois que l’île est une forteresse. Tu crois que nous sommes à l’abri parce que les rochers de la passe déchirent les navires. Mais Brunehame n’est qu’un radeau. Et sur un radeau, on finit toujours par voir arriver ce qu’on n'a pas invité.
 Alma s’agenouilla près de son mentor. Elle aimait le parfum de Maëla, un mélange de menthe séchée et de poussière ancienne.
 — Vous parlez comme si quelque chose approchait.
 — Quelque chose approche toujours quand le vent tourne à l’est avec cette odeur de fer, murmura la vieille femme en fixant la porte. La marée ne rend jamais seulement du bois flotté. Elle rend des destins. Parfois, elle les rend brisés, juste pour voir si nous sommes assez forts pour les recoudre.
@@ -37,7 +37,7 @@ Mais alors, sous ses doigts, une pulsation infime.
 Un battement. Unique. Fragile. Comme le dernier battement d'aile d'un oiseau blessé.
 — Vivant... murmura-t-elle, sa propre voix se perdant dans le hurlement du vent.
 Elle tenta de le retourner, mais le corps était d'une lourdeur inerte. Elle dut arc-bouter ses jambes, s'agrippant aux lanières de cuir de son plastron. Dans un effort qui lui arracha un cri, elle parvint à le basculer sur le dos.
-Le visage apparut. Un visage d'homme mûr, marqué par des cicatrices que le sel commençait à rouvrir. Ses yeux étaient clos, ses mâchoires serrées dans une expression de résistance sauvage. Il portait ses mains sur son torse, deux poings de cuir noir qui semblaient encore protéger un secret.
+Le visage apparut. Un visage d'homme, marqué par des cicatrices que le sel commençait à rouvrir. Ses yeux étaient clos, ses mâchoires serrées dans une expression de résistance sauvage. Il portait ses mains sur son torse, deux poings de cuir noir qui semblaient encore protéger un secret.
 Alma resta un instant pétrifiée par la vision de cet homme de fer échoué sur sa terre de laine. Elle comprit, avec une intuition fulgurante, que Brunehame venait de changer de visage. Le silence de la chaumière ne serait plus jamais le même.
 Elle se redressa et chercha du regard une aide quelconque. Au loin, vers les cabanes de pêcheurs, elle aperçut Ivar.
 — Ivar ! hurla-t-elle de toutes ses forces. Ivar ! Viens m'aider !
@@ -70,7 +70,6 @@ Le silence qui suivit fut seulement rompu par le cri d'un goéland. Gunnar serra
 Gunnar fit demi-tour, suivi de ses hommes. Ivar regarda Alma, une inquiétude profonde marquant ses traits.
 — Il a raison sur un point, Alma. Ce n'est pas un cadeau que nous ramassons là. C'est une tempête endormie.
 — Alors aidons-le à se réveiller doucement, répondit-elle.
-
 Le transport fut un calvaire de deux heures. Ils durent improviser une civière avec des rames et un vieux filet, grimpant le sentier escarpé sous un vent qui redoublait de violence. À chaque secousse, le chevalier émettait un râle sourd, un son de métal et de chair broyée qui faisait frissonner Alma.
 Lorsqu'ils franchirent enfin le seuil de la chaumière, l'odeur de la tourbe et des herbes séchées les enveloppa. Maëla n'avait pas bougé de son fauteuil. Elle observa Ivar et Alma déposer le fardeau sur la grande table de chêne.
 — Vous l'avez ramené, murmura la vieille femme. Le fer est entré dans la maison.
@@ -204,6 +203,8 @@ Edrin, assis près du foyer, levait les yeux de la serpe qu'il tentait d'affûte
 — Je n'ai aucune intention de me mêler à vos réjouissances, répondit-il d'une voix neutre.
 — Ce n'est pas une fête pour se réjouir. C'est une fête pour ne pas avoir peur. Et ta présence… elle alimente leur peur plus que l’hiver ne le fait. Gunnar a été clair : le conseil ne veut pas que "l'ombre du fer" s'approche des feux.
 Edrin ne répondit pas. Il sentit une pointe d'amertume, non pas parce qu'il voulait danser, mais parce que cette exclusion lui rappelait qu'il n'était qu'un hôte forcé, une anomalie dans le cycle immuable de l'île.
+________________
+
 
 Le soir tomba, violet et profond. De la fenêtre de la chaumière, Edrin observait les lueurs orange qui montaient du village. Il entendait le battement sourd des tambours de peau, un rythme tribal qui semblait faire vibrer la roche elle-même. C’était un son brut, dépourvu de la sophistication des fanfares militaires qu'il avait connues. C’était le son de la survie.
 Il se leva, enveloppé dans sa vareuse de laine. Il ne descendit pas au village. Il monta.
@@ -250,6 +251,8 @@ Immédiatement, une douleur fulgurante remonta le long de son flanc gauche, là 
 Le premier sillon fut un désastre. La charrue dévia, manqua de se renverser, et Edrin finit à genoux dans la boue sous les rires des jeunes garçons qui surveillaient le bœuf.
 — Relève-toi, jappa Gunnar depuis le bord du champ. La terre se fiche de ton nom, chevalier. Elle ne connaît que le poids que tu y mets.
 Edrin se releva. Il ne regarda personne. Il essuya la boue sur son visage d'un revers de manche et reprit les poignées.
+________________
+
 
 L'heure qui suivit fut un calvaire. Le temps se dilata dans un effort monotone et brutal. La pluie se transforma en un crachin glacial qui s'infiltrait sous sa vareuse de laine. Ses mains, privées de la protection du cuir, commencèrent à chauffer. Il sentit les premières ampoules éclater, le liquide chaud se mêlant à la poisse de la terre.
 Il ne s'arrêta pas. Il ne demanda pas de pause.
@@ -264,6 +267,8 @@ Edrin ouvrit ses paumes. Elles étaient rouges, à vif, couvertes de terre et de
 — Gunnar espère que tu vas craquer, reprit Ivar à voix basse. Il espère que tu vas supplier pour qu'on te rende ton épée et que tu partes. Il croit que le fer ne peut pas devenir de la terre.
 — Gunnar se trompe sur beaucoup de choses.
 — Peut-être. Mais il a raison sur une chose : le village te regarde. Si tu échoues ici, sur cette colline, tu ne seras jamais rien d'autre qu'un cadavre encombrant pour nous.
+________________
+
 
 Le soir tomba, et avec lui une fatigue si profonde qu'Edrin eut l'impression que ses os étaient faits de plomb. Lorsqu'il poussa la porte de la chaumière, Alma l'attendait. Elle n'eut pas besoin de poser de questions. Elle vit la boue sur ses vêtements, la raideur de sa démarche, et surtout ses mains qu'il tentait maladroitement de cacher derrière son dos.
 — Assieds-toi, dit-elle simplement.
@@ -296,6 +301,8 @@ Maëla se pencha en avant, son regard voilé retrouvant une clarté soudaine, pr
 Alma sentit un vertige la saisir. Toute sa vie, elle s'était efforcée d'être la plus "vraie" des filles de Brunehame, la plus utile, la plus discrète. Et voilà que Maëla lui révélait que son existence même était une intrusion, un cadeau empoisonné de l'océan.
 — Qu'est-ce que je dois faire ? demanda-t-elle, sa voix tremblante.
 — Apprendre les derniers secrets, répondit Maëla en désignant un coffre de chêne ferraillé sous le lit. Là-dedans, il n'y a pas d'or. Il y a les racines de la terre noire, celles qui ne poussent qu'à l'ombre. Il y a le savoir de la douleur. Ma vue s'en va, Alma. Mes mains ne savent plus broyer. C'est à toi de porter le bâton.
+________________
+
 
 Les heures qui suivirent furent une transmission fiévreuse. Maëla fit réciter à Alma les noms des plantes interdites, celles qui guérissent en empoisonnant un peu, celles qui ouvrent l'esprit et celles qui ferment les yeux pour toujours.
 — N'oublie jamais, petite : soigner, c'est choisir qui vit. C'est une charge de reine, pas de servante. L'Échoué aura besoin de ce savoir. Pas pour sa blessure au flanc, elle est fermée. Mais pour la blessure qu'il porte dans sa gorge.
@@ -316,8 +323,8 @@ Edrin serra sa main.
 Dehors, Brunehame continuait de gronder, mais à l'intérieur, le secret de Maëla avait créé une bulle de vérité qui rendait les murs de pierre plus solides que n'importe quelle forteresse. Le long roman de leur vie venait de trouver son véritable ancrage.
 CHAPITRE 9 : LE LANGAGE DES MAINS
 L'hiver n'était plus une menace lointaine, il était devenu l'unique réalité de Brunehame. La neige, mêlée de sel, recouvrait les terrasses d'orge d'un linceul grisâtre. Le travail aux champs étant suspendu par le gel, le village s'était replié à l'intérieur des foyers. Pour Edrin, ce repos forcé était une épreuve pire que le labour : le silence de la chaumière l'obligeait à faire face à ses propres fantômes.
-C’est Lys qui, la première, brisa cette léthargie.
-Elle arrivait chaque après-midi, une petite silhouette emmitouflée dans une pelisse de mouton trop grande pour elle, apportant parfois un œuf de mouette ou une poignée de noisettes sèches pour Maëla. Elle s’asseyait près d’Edrin, l’observant avec une fascination silencieuse pendant qu’il entretenait le feu.
+C’est Lys, une fillette de six ans aux cheveux emmêlés qui, la première, brisa cette léthargie.
+Elle arrivait chaque après-midi, emmitouflée dans une pelisse de mouton trop grande pour elle, apportant parfois un œuf de mouette ou une poignée de noisettes sèches pour Maëla. Elle s’asseyait près d’Edrin, l’observant avec une fascination silencieuse pendant qu’il entretenait le feu.
 — Est-ce que tes mains sont magiques ? demanda-t-elle un jour, rompant le calme habituel.
 Edrin regarda ses paumes. Elles étaient désormais tannées, couvertes de calus durs, les cicatrices de fer rouge s'étant fondues dans la peau brune.
 — Non, Lys. Pourquoi le seraient-elles ?
@@ -330,6 +337,8 @@ Il travaillait avec une lenteur extrême, sculptant chaque courbe du dos du cét
 — Le bois a une mémoire, expliqua-t-il à Lys alors qu'elle s'approchait pour toucher l'objet. Si tu vas trop vite, il se fend. Si tu l'écoutes, il te dit où il veut aller.
 — Comme la mer ?
 — Oui, comme la mer.
+________________
+
 
 Pendant ce temps, les soins d'Alma prenaient une tournure plus intime. Chaque soir, elle massait les épaules et le dos d'Edrin avec de l'huile de millepertuis. Le travail de la charrue avait raidi ses muscles de guerrier, habitués à d'autres tensions.
 Dans la pénombre de la chaumière, alors que Maëla dormait d'un sommeil peuplé de murmures, Alma faisait glisser ses mains sur la peau d'Edrin. C’était un langage qu’ils n’auraient su traduire en mots. Sous ses doigts, elle sentait les nœuds de tension, les vieilles blessures de guerre, mais aussi la détente progressive de l’homme.
@@ -338,6 +347,8 @@ Dans la pénombre de la chaumière, alors que Maëla dormait d'un sommeil peupl�
 Il se retourna lentement. Leurs visages n'étaient qu'à quelques pouces l'un de l'autre. Dans cet espace restreint, les non-dits pesaient plus lourd que les pierres de l'île. Edrin leva une main — cette main qui venait de finir la baleine de Lys — et écarta une mèche de cheveux du front d'Alma. Son geste était d'une délicatesse qui l'effraya lui-même.
 — Tu m'as rendu plus que la vie, Alma. Tu m'as rendu le droit de ne rien être.
 Alma ne répondit pas. Elle posa simplement sa main sur celle d'Edrin. Ce n'était pas un geste de passion brûlante, mais une ancre. Le sentiment qu'au milieu de l'hiver et de l'isolement, ils avaient créé un monde où le nom des rois et le prix du fer n'avaient plus de prise.
+________________
+
 
 Le lendemain, Edrin offrit la baleine à Lys. La petite fille poussa un cri de joie qui résonna dans toute la chaumière, un son si pur qu'il sembla chasser pour un instant l'ombre de Gunnar qui planait sur le village.
 — Regarde, maman ! Regarde ce que le géant a fait ! cria-t-elle en sortant dans le froid.
@@ -356,6 +367,8 @@ Il sortit sur le seuil, ses yeux de prédateur balayant l’horizon. Alma le sui
 — C’est mon ordre, murmura Edrin. Sa voix était redevenue basse, monocorde, dépouillée de la douceur des derniers mois.
 — Ils ne peuvent pas accoster, dit Alma, sa main cherchant celle d’Edrin comme pour s’y ancrer. Les rochers…
 — Ils ont mis une barque à l’eau, répondit-il, le regard fixé sur le petit point sombre qui s'approchait du port. Ils savent que je suis ici.
+________________
+
 
 Le village s'était rassemblé sur le quai dans un silence de sépulcre. Gunnar était au premier rang, sa canne de renne tremblante d'une colère contenue. Ivar se tenait près de ses filets, la main serrée sur son couteau à poisson. Tous fixaient la barque qui accostait.
 Six rameurs, le torse protégé par du cuir bouilli, immobilisèrent l’embarcation. Un jeune homme en sauta. Il portait une armure d’acier poli qui reflétait le soleil pâle avec une insolence insupportable. Sa cape pourpre flottait au vent, propre, sans une tache de sel ou de terre.
@@ -373,6 +386,8 @@ Edrin tourna la tête. Il vit Alma. Elle se tenait à l’écart, les mains cach
 Gunnar s’avança, sa canne frappant le granit du quai.
 — Qu'il parte ! cria le vieil homme. Qu'il reprenne son fer et ses guerres ! Nous ne voulons pas de lui ici, et nous ne voulons pas de vous non plus ! Partez avant que la mer ne change d’avis !
 Edrin regarda Ivar. Le pêcheur ne dit rien, mais il détourna les yeux, crachant dans l’eau. Pour le village, Edrin n’était plus l’homme qui sculptait des baleines ; il était redevenu le danger qu’ils avaient toujours soupçonné.
+________________
+
 
 Le retour à la chaumière pour récupérer ses maigres affaires fut une agonie de silence. Maëla dormait, ou feignait de dormir. Alma entra derrière Edrin et referma la porte. Elle resta debout contre le bois, le regardant enfiler ses bottes de cuir, celles qui servaient à marcher sur le sang, pas dans les sillons.
 — Tu l’as toujours su, murmura-t-elle.
@@ -387,6 +402,8 @@ Edrin franchit le seuil. Sur le sentier, il vit Lys. La petite fille tenait sa b
 Lorsqu'il monta dans la barque, Edrin ne regarda pas la nef de guerre. Il regarda la crête de la falaise. Alma y était debout, minuscule silhouette brune contre l'immensité grise du ciel.
 La rame frappa l’eau. Le sillage s’étira. Brunehame commença à s’effacer dans la brume. Edrin glissa sa main dans sa poche et serra les graines d'orge. Il sentit le sel sur ses lèvres. Ce n'était pas celui de la mer, mais celui de la première larme qu'il s'autorisait depuis cinq ans.
 L'homme de Brunehame venait de mourir. Le Lion du Sud était de retour, mais son cœur était resté sur le rivage, enfoui sous une couche de sable et de silence.
+________________
+
 
 CHAPITRE 11 : LE SILLAGE DE L'ABSENCE
 Le silence qui s'abattit sur la chaumière le lendemain du départ d'Edrin ne ressemblait à aucun autre. Ce n'était pas le silence paisible des nuits d'été, ni celui, feutré, des matins de neige. C'était un silence carnivore, qui semblait dévorer chaque son, chaque souffle, chaque battement de cœur.
@@ -397,6 +414,8 @@ La voix de Maëla était plus faible que la veille, un simple froissement d'air.
 — Je ne le cherche pas, Maëla. Je fais le feu.
 — Tu mens à toi-même, et c'est le pire des poisons pour une soigneuse. Ton corps attend son pas sur le seuil, et ton esprit attend son ombre sur le mur. Mais l'Échoué a retrouvé sa mer. Il est redevenu une écume de fer.
 Alma ne répondit pas. Elle se plongea dans le travail avec une fureur qu'elle n'avait jamais connue. Elle frotta la table de chêne jusqu'à ce que le bois gémisse. Elle rangea chaque bocal, chaque racine, chaque écorce avec une précision maniaque. Elle trouva, coincé dans une fissure du banc, un petit copeau de bouleau — un vestige de la baleine sculptée pour Lys. Elle le serra si fort dans sa paume que le bois s'enfonça dans sa chair, mais elle ne le jeta pas. Elle le glissa dans sa propre bourse, là où elle gardait ses herbes les plus précieuses.
+________________
+
 
 Au village, l'ambiance avait changé. Le départ des soldats avait laissé une trace de suie et d'amertume. Gunnar, le doyen, trônait près du puits, le visage rayonnant d'une satisfaction obscure.
 — La mer a repris ses déchets, disait-il à qui voulait l'entendre. Brunehame est de nouveau pure. Le fer est parti, et avec lui, le malheur qu'il nous promettait.
@@ -407,6 +426,8 @@ Elle se rendit chez la veuve, la mère de Lys. La petite fille était assise sur
 — Mais il n'était plus un lion. Il était mon ami. Il m'a promis que la baleine saurait où se cacher. Pourquoi ne s'est-il pas caché avec nous ?
 Alma s’agenouilla devant elle. Elle aurait voulu lui dire la vérité, lui dire que l'honneur est une chaîne plus solide que tous les attachements, mais elle se contenta de lui caresser les cheveux.
 — Parfois, Lys, les gens croient qu'ils sauvent le monde en partant, alors qu'ils ne font que briser le leur.
+________________
+
 
 L'après-midi, Alma monta sur la crête de la falaise, là où Edrin avait labouré le dernier sillon. Elle s'arrêta devant la terre retournée. Les premières pousses d'orge commençaient à percer, d'un vert si tendre qu'il paraissait presque blanc sous la lumière crue.
 C’était le travail d’Edrin. Sa trace physique dans le sol de Brunehame.
@@ -432,7 +453,6 @@ Edrin prit le gobelet. Le métal était froid, poli, sans aucune aspérité. Il 
 Le visage du jeune chevalier se durcit.
 — Tout, Messire. Les flottes du Sud ne se contentent plus de piller. Elles occupent. Elles brûlent les récoltes pour affamer les cités. Le code d’honneur… il est devenu un luxe que nous ne pouvons plus nous permettre. On ne fait plus de prisonniers, Messire. On fait des exemples.
 Edrin regarda ses mains. Le cuir noir brillait sous le soleil blafard. Il sentit contre sa poitrine la petite bourse de lin dissimulée sous son plastron. Les graines d'orge d'Alma. C’était son unique secret, sa seule ancre. Si Caelan ou les autres l’apprenaient, ils riraient de lui. Un Lion du Val Pourpre portant des graines de paysan comme une relique de sainte.
-
 L’arrivée à Ondeval fut une explosion de fanfares et de bannières. La citadelle, immense forteresse de granit surplombant la mer, semblait vouloir défier le ciel lui-même. Sur les quais, des centaines de soldats s'étaient massés pour voir celui qu'on appelait le "Revenant".
 Lorsqu'Edrin posa le pied sur le quai, le fracas des épées frappées contre les boucliers fut assourdissant. On l’acclama. On cria son nom. Mais il ne voyait que la rigidité des visages, la crasse sous l'éclat des armures, et cette odeur — cette odeur de fer, de sueur et de mort qu'il avait oubliée à Brunehame.
 Il fut conduit immédiatement devant le Grand Maître, un homme dont le visage n'était plus qu'une carte de rides et de cicatrices, assis dans une salle immense décorée de trophées de guerre.
@@ -448,6 +468,7 @@ Le silence qui suivit fut glacial. Les officiers présents se regardèrent, incr
 Edrin sentit la colère monter, une vieille amie familière, mais cette fois-ci, elle n'était pas tournée vers l'ennemi. Elle était tournée vers lui-même. Il baissa la tête, ses doigts se crispant sur le pommeau de son épée.
 — Non, Messire. Je ferai mon devoir.
 
+
 Le soir même, Edrin fut installé dans ses anciens quartiers. La chambre était vaste, luxueuse, remplie de fourrures et de tapisseries. Mais il ne put y rester. Il se sentait étouffer entre ces murs de pierre trop hauts.
 Il sortit sur les remparts de la citadelle. En bas, la mer battait les rochers. Il regarda vers le Nord, là où, quelque part dans la brume, Brunehame continuait d'exister.
 Il sortit la petite bourse de lin de son plastron. Il en retira une unique graine d'orge. Elle était petite, dure, insignifiante. Il la posa sur la pierre du rempart.
@@ -455,14 +476,15 @@ Il sortit la petite bourse de lin de son plastron. Il en retira une unique grain
 Il réalisa alors l'ampleur de son tourment. Il était un Lion par le fer, mais il était un paysan par le cœur. Il allait devoir mener une guerre qu'il ne comprenait plus, pour défendre un monde qui n'était plus le sien.
 Derrière lui, le bruit des sentinelles qui changeaient de garde lui rappela que le temps de la réflexion était terminé. Le Lion était de retour dans sa cage de fer. Mais alors qu'il se redressait, il sentit que son armure, pour la première fois de sa vie, ne le protégeait de rien. Elle ne faisait que le peser.
 
+
 CHAPITRE 13 : LA TRANSMISSION
 La neige de printemps, que les gens de Brunehame appelaient « le linceul des agneaux », tombait en flocons lourds et humides, s'écrasant contre la vitre de la chaumière. À l'intérieur, la chaleur était étouffante. Alma entretenait un feu constant, non plus pour le confort, mais pour repousser l'ombre qui s'étirait dans le coin de la pièce, là où Maëla s'éteignait.
-La vieille femme n'était plus qu'un souffle erratique sous une montagne de couvertures. Ses mains, posées sur le drap, ressemblaient à des serres d'oiseau sculptées dans de l'ivoire jauni.
+La vieille femme n'était plus qu'un souffle erratique sous une montagne de couvertures. Ses mains, posées sur le drap, ressemblaient à des serres d'oiseaux sculptées dans de l'ivoire jauni.
 — Approche, Alma… ne perds pas ton temps avec le bois. Le feu du corps ne se rallume pas avec de la tourbe.
 Alma s’assit au chevet du lit. Elle prit une éponge de mer, la trempa dans une infusion de menthe poivrée et humecta les lèvres gercées de la mourante.
 — Je suis là, Maëla.
 — Il est parti, n’est-ce pas ? L’homme de fer ?
-— Il y a des lunes déjà, Maëla. Dormez.
+— Il y a déjà des lunes, Maëla. Dormez.
 — Il est parti, mais il a laissé une porte ouverte, murmura la vieille femme dans un râle. Je le sens. Le vent entre par là. L’île ne sera plus jamais fermée. Tu vas devoir être forte, Alma. Plus forte que je ne l’ai été.
 Soudain, Maëla saisit le poignet d’Alma avec une force insoupçonnée. Ses yeux, voilés par la cataracte, semblèrent retrouver une clarté effrayante, une lueur d’outre-monde.
 — Écoute bien le chant des abîmes. Tu n'es pas née du hasard, petite. La soie rouge dans laquelle je t'ai trouvée… elle portait un blason. Un lion d'or sur fond d'azur.
@@ -474,7 +496,6 @@ Maëla s’interrompit, prise d’une quinte de toux qui sembla lui déchirer la
 — Maëla, restez avec moi. Je ne sais pas comment faire sans vous.
 — Tu sais, répondit la vieille femme dans un souffle qui n'était plus qu'un murmure. Tu as ses mains, Alma. Les mains de celle qui reste quand tout le monde fuit.
 La main de Maëla retomba sur le lit. Ses yeux restèrent ouverts, fixés sur une poutre du plafond, mais la lueur venait de s'éteindre. Le silence qui suivit fut plus assourdissant que le fracas des vagues contre la falaise. Alma resta immobile, le bras de Maëla encore chaud contre sa peau, réalisant que le dernier rempart entre elle et le monde venait de s'effondrer.
-
 Les funérailles eurent lieu sous une pluie battante. Brunehame n'enterrait pas ses morts dans la terre ; la roche était trop dure. On les emmenait au « Promontoire des Adieux », où les corps étaient déposés dans des niches naturelles de la falaise, face au large.
 Tout le village était là. Même Gunnar se tenait tête baissée, sa canne de renne plantée dans la boue. On respectait Maëla non par amour, mais par une crainte ancestrale. Elle était celle qui connaissait le nom des ombres.
 Lorsque le corps, enveloppé dans un linceul de laine brute, fut déposé dans la pierre, Alma s'avança. Elle ne portait pas de voile. Ses cheveux sombres, trempés, collaient à son visage. Elle tenait dans sa main un bouquet de fleurs de bruyère séchées, les dernières que Maëla avait cueillies.
@@ -484,7 +505,6 @@ Le doyen eut un rictus de mépris.
 — Tu es jeune. Et tu as le sang de l'étranger en toi. Les gens ne viendront pas à toi comme ils allaient à elle. Ils se souviennent de l'homme que tu as caché. Ils se souviennent que tu as préféré le fer à ton propre peuple.
 — Ils viendront quand ils souffriront, rétorqua-t-elle froidement. Et ce jour-là, Gunnar, c'est toi qui devras me demander la permission d'entrer dans ma maison.
 Elle tourna les talons et redescendit vers la chaumière, seule.
-
 Le soir venu, Alma s'assit dans le fauteuil d'osier de Maëla. Elle se sentait minuscule dans ce meuble trop grand, hanté par l'odeur de la vieille femme. Elle posa la main sur la clé de fer qu'elle portait désormais autour du cou.
 Elle ne l'ouvrit pas. Pas encore.
 Elle pensa à Edrin. Elle l'imaginait dans son armure d'acier, au milieu des cris et du sang, portant peut-être sur son propre plastron le lion d'or dont Maëla avait parlé. Elle réalisa qu'ils n'étaient pas seulement liés par un naufrage, mais par une lignée de secrets qu'aucun d'eux ne comprenait encore.
@@ -506,9 +526,8 @@ Edrin sentit la petite bourse de lin contre son torse, sous la maille. Il imagin
 — Brûler les réserves, c'est condamner dix mille âmes à la mort lente, dit Edrin, sa voix vibrant d'une fureur contenue.
 Valerius se tourna vers lui, un sourire méprisant aux lèvres.
 — Vous parlez comme un prêtre, Edrin. Ou comme un paysan. On m'a dit que vous aviez passé trop de temps sur ce rocher de sauvages. Il paraît que vous y avez appris à aimer la terre. Faites attention. La terre finit toujours par recouvrir ceux qui l'aiment trop.
-Soudain, une détonation sourde retentit. Une catapulte venait de projeter un baril de poix enflammée par-dessus les murs. Le projectile tomba directement sur le toit d'un bâtiment civil. Les cris montèrent, aigus, déchirants.
+Soudain, une détonation sourde retentit. Une catapulte venait de projeter un baril de poix enflammé par-dessus les murs. Le projectile tomba directement sur le toit d'un bâtiment civil. Les cris montèrent, aigus, déchirants.
 — L'assaut est donné, déclara Valerius en tirant son épée. Venez, Lion. Montrez-nous que vous n'avez pas oublié comment on utilise vos griffes.
-
 L'entrée dans la ville fut une vision d'enfer. Les soldats de l'Ordre s'engouffraient par les brèches, massacrant tout ce qui bougeait. Edrin marchait au milieu du chaos, son épée au poing, mais il ne frappait que pour parer. Il se sentait comme un automate. Le poids de son armure lui paraissait décuplé, chaque plaque de fer étant un reproche.
 Il se retrouva devant le grand grenier de la cité. Des soldats de Valerius s'apprêtaient à y jeter des torches.
 — Arrêtez ! cria Edrin.
@@ -522,6 +541,7 @@ Il fit demi-tour et s'éloigna vers les quartiers dévastés. Il finit par s'ass
 — Pardon, Alma, murmura-t-il. Pardon pour ce que nous sommes.
 À cet instant, au milieu des cendres d'Aigue-Morte, Edrin comprit qu'il ne pourrait pas tenir cinq ans. Il comprit que chaque jour passé ici était une trahison envers la vie qu'il avait découverte à Brunehame. Il ne savait pas encore comment, mais il savait qu'il devait retourner au silence, même s'il devait pour cela devenir un traître aux yeux de tous.
 Derrière lui, le grenier s'embrasa. L'odeur du grain brûlé — cette odeur de gâchis absolu — remplit ses poumons. C'était l'odeur de sa propre fin.
+
 
 CHAPITRE 15 : LE TESTAMENT DE ROCHE
 La chaumière n'avait jamais été aussi vaste, ni aussi froide. Depuis l'enterrement de Maëla, Alma avait l'impression de marcher dans une cathédrale de silence où chaque craquement de poutre résonnait comme un reproche. Elle ne dormait plus dans son petit recoin, mais dans le fauteuil d'osier, face aux braises, comme si elle craignait que l'âme de l'île ne s'éteigne si elle fermait les yeux.
@@ -551,10 +571,9 @@ Elle éteignit la dernière chandelle. Dans l'obscurité, seul le lion d'or sur 
 CHAPITRE 16 : LES LETTRES MORTES
 Le troisième hiver sur Brunehame fut celui de la glace noire. Le froid ne venait pas de la neige, mais d'un vent sec qui pétrifiait la terre et faisait éclater les pierres des murets. Dans la chaumière, Alma vivait désormais comme une ombre. Elle parlait peu, soignait les villageois avec une efficacité glaciale qui tenait Gunnar à distance, et passait ses nuits à étudier les parchemins du coffre de Maëla.
 Elle avait pris l'habitude de s'asseoir à la table de chêne, là où l'Échoué avait autrefois reposé. Elle y posait ses mains à plat, cherchant la chaleur résiduelle d'un souvenir qui commençait à s'effriter.
-— Tu l’oublies, n’est-ce pas ? demanda Lys un soir, en la voyant fixer le vide.
-L’enfant avait grandi. Elle n’était plus la petite fille curieuse, mais une silhouette élancée qui apprenait le nom des poisons avec une gravité inquiétante.
+— Tu l’oublies, n’est-ce pas ? demanda Lys, qui fêtait ses neuf ans.
+L’enfant avait grandi dans le silence et l'amertume du village. Elle apprenait désormais le nom des plantes avec une gravité précoce.
 — On n'oublie pas le fer qui vous a transpercé, Lys. On s'habitue juste à porter la cicatrice.
-
 À des centaines de lieues de là, sous une tente de cuir battue par la pluie des Marches du Sud, Edrin était assis devant un écritoire de campagne. Une bougie de suif projetait son ombre vacillante sur la toile grise.
 Il tenait une plume d'oie. Sa main, enfermée dans un gantelet dont il avait coupé les doigts pour plus de précision, hésitait au-dessus d'un parchemin froissé.
 Alma, écrivait-il.
@@ -572,7 +591,6 @@ Caelan hésita, voyant l'expression d'Edrin.
 — Mon devoir, Caelan, c'est ce qui m'empêche de dormir. Va-t'en.
 Le jeune chevalier sortit. Edrin resta seul. Il sortit une graine d'orge de sa bourse — elle était devenue lisse à force d'être caressée. Il la porta à ses lèvres.
 — Attends-moi, murmura-t-il dans l'obscurité. Même si je ne reviens qu'en cendres, attends-moi.
-
 Sur l'île, au même moment, Alma se levait pour remettre une bûche dans le foyer. Elle s'arrêta un instant, le regard tourné vers la porte. Elle avait cru entendre un murmure, une voix d'homme portée par le vent d'Est.
 Elle secoua la tête. Ce n'était que le ressac contre la Crique des Pendus. Elle serra la clé de Maëla contre sa poitrine et se rassit. Le temps de l'attente était devenu sa seule patrie, un royaume de silence où elle régnait seule, en attendant que le fer ne vienne brûler l'horizon.
 CHAPITRE 17 : LA RÉCOLTE DE SANG
@@ -606,12 +624,12 @@ Il rangea son épée. Ses mains tremblaient sous ses gants. Il descendit de chev
 Il remonta en selle et s'éloigna dans la direction opposée à celle de son armée. Il savait que ce geste marquait sa fin. Il n'était plus un chevalier. Il n'était plus un Lion. Il était devenu ce que Gunnar craignait le plus : un homme sans maître, errant entre deux mondes.
 Ce soir-là, Edrin ne rejoignit pas le camp. Il dormit à la belle étoile, son armure lui servant d'oreiller de pierre. Il regarda les étoiles et pensa à Alma. Il comprit que le "Grand Écart" venait de se briser. Il n'y avait plus de retour possible vers la gloire. Il ne restait que le chemin du retour vers le silence, un chemin qui serait pavé de traques et de sang.
 
+
 CHAPITRE 18 : LA MALÉDICTION DE L'ORGE
 L’été de la quatrième année fut une agonie de poussière. Sur Brunehame, la pluie avait oublié le chemin des falaises, et les puits commençaient à montrer leur fond de vase grise. Pourtant, au milieu de cette désolation, le champ d’Edrin resplendissait d’un éclat insolent. Les épis, lourds et dorés, ondulaient sous le vent de mer, comme si la terre puisait dans un secret que les autres cultures ignoraient.
 Pour le village, cette prospérité était une insulte. On murmurait au port que ce grain ne se nourrissait pas d'eau, mais du sang que l'étranger avait versé avant d'arriver. Gunnar entretenait la braise de cette haine avec la patience d'un bourreau.
 — Regardez cette orge, disait-il aux hommes rassemblés devant la taverne de bois flotté. Elle est belle parce qu'elle est empoisonnée. Elle attire les tempêtes. Tant que ce champ sera debout, Brunehame ne connaîtra pas la paix.
 Alma entendait ces murmures. Elle les sentait comme des épines sous sa peau chaque fois qu’elle traversait la place. Elle ne soignait plus les villageois dans l’intimité de la chaumière ; elle exigeait qu’ils viennent à elle, et ses remèdes étaient désormais accompagnés d’un silence si lourd qu’il pesait plus que la maladie.
-
 Une nuit, alors que la lune était cachée par un voile de brume poisseuse, Alma fut tirée de son sommeil par une odeur qu'elle redoutait plus que tout : celle de la poix brûlée.
 Gunnar s’était avancé seul entre les rangs d’orge.
 La torche qu’il tenait n’était pas encore allumée. Il n’en avait pas besoin pour voir. Les épis pâles luisaient sous la lune voilée, lourds et trop beaux pour une année de sécheresse. Il s’arrêta, posa sa main sur une tige encore tiède de la chaleur du jour.
@@ -648,6 +666,8 @@ L'un après l'autre, les hommes imitèrent Ivar. Les torches s'éteignirent dans
 Gunnar resta seul avec sa flamme. Il fixa Alma avec une haine pure, une haine de vieillard dépossédé de son autorité.
 — Tu as gagné ce soir, soigneuse. Mais tu as scellé ton destin. Le village ne t'oubliera pas. Tu es devenue une étrangère parmi nous.
 — J'ai toujours été une étrangère, Gunnar, répondit-elle en s'enveloppant dans sa cape. C'est pour ça que je suis la seule à pouvoir vous sauver de vous-mêmes.
+________________
+
 
 Alma resta seule dans le champ alors que les hommes redescendaient vers le port. Elle s'assit au milieu des épis, sa main blessée pressée contre la terre. Elle sentait le battement de son cœur résonner dans le sol.
 Elle comprit alors que ce champ n'était plus seulement de l'orge. C'était un sanctuaire, une église de paille et de vent dédiée à l'absent. En protégeant ces graines, elle protégeait le retour d'Edrin.
@@ -661,6 +681,8 @@ Seul le champ d'Edrin, protégé par les menaces d'Alma et la vigilance d'Ivar, 
 Alma avait pris le contrôle du silo communal. Chaque matin, elle se tenait devant la lourde porte de bois, la dague d'obsidienne à la ceinture et le bâton de Maëla à la main. Elle ne distribuait l'orge que grain par grain, mesurant chaque ration selon les besoins réels des familles, ignorant les supplications et les insultes.
 — Tu nous affames, Alma ! criait une femme dont le nourrisson ne pleurait plus, faute de force. Tu gardes l'orge pour le jour où ton boucher reviendra !
 — Je garde l'orge pour que nous voyions tous le printemps, répondait Alma, sa voix aussi froide que le vent de Nord. Si vous mangez tout aujourd'hui, vous enterrerez vos enfants avant février.
+________________
+
 
 Dans la chaumière, l'ambiance était devenue sépulcrale. Lys avait maintenant quinze ans. Elle avait perdu la rondeur de l'enfance, remplacée par une silhouette nerveuse et des gestes d'une précision effrayante. Elle passait ses journées à broyer des écorces de chêne et des os de seiche pour en faire des compléments de farine.
 — Pourquoi nous détestent-ils autant ? demanda Lys un soir, alors qu'elle préparait une soupe claire pour elles deux. On les sauve, et ils nous regardent comme si nous étions la peste.
@@ -677,6 +699,8 @@ Le quatrième soir, Gunnar ouvrit les yeux. Il vit Alma penchée sur lui, lui es
 — On ne guérit pas... de la peur. Elle est dans la roche de cette île. Écoute-moi... L'étranger... il ne reviendra pas comme tu l'espères. Les oiseaux de mer rapportent des histoires de feu... de navires noirs. S'il revient... il apportera la fin de Brunehame.
 — Brunehame est déjà en train de mourir, Gunnar. Il est le seul qui ait jamais planté quelque chose ici sans rien demander en retour.
 Gunnar ferma les yeux. Un dernier spasme secoua son corps décharné. Il mourut dans le silence de la nuit, au milieu de la maison qu'il avait tant maudite, soigné par les mains qu'il avait tant haïes.
+________________
+
 
 Le lendemain, Brunehame enterra son doyen. Mais cette fois, le rituel fut différent. On ne monta pas au Promontoire des Adieux. Le sol était trop gelé. Alma ordonna que l'on creuse une fosse au bord du champ d'Edrin, là où la terre avait été travaillée.
 Le village se rassembla. Sans Gunnar pour attiser leur colère, ils semblaient perdus, des ombres errant dans la brume. Ivar prit la parole, sa voix résonnant sur la mer calme.
@@ -705,6 +729,8 @@ Le silence qui suivit fut comme une lame de rasoir. Edrin regarda les autres off
 — L'honneur d'un Lion ne se mesure pas à la vie de quelques pécheurs, cracha Valerius en se levant. Vous nous fatiguez avec vos états d'âme de berger, Edrin. L'ordre est donné. Brunehame sera l'enclume sur laquelle nous briserons l'Armada.
 Edrin ne répondit pas. Il fixa la carte, ou plutôt l'espace vide autour de l'île. Il sentit contre son torse la petite bourse de lin. Les graines. Il pensa à Alma, à Lys, à Ivar. Il les vit périr dans les flammes, non pas par le fer de l'ennemi, mais par l'indifférence de ses propres frères.
 Il fit volte-face et quitta la salle sans saluer.
+________________
+
 
 Dans les écuries, l'air sentait le foin et le cheval, une odeur qui lui rappela brièvement l'étable d'Ivar. Edrin préparait son destrier avec une gestuelle rapide, automatique.
 — Vous n'irez pas loin, Messire.
@@ -722,6 +748,7 @@ Edrin monta en selle. Caelan fit un pas de côté, libérant le passage. Il ne s
 Edrin lança son cheval au galop, sortant de la citadelle par la poterne Ouest. Il ne prit pas la route des armées. Il se dirigea vers le port de contrebande, là où les lois de l'Ordre ne s'appliquaient plus.
 Il devait trouver un navire. Un équipage de parias qui ne craignait ni la tempête, ni la trahison. Il avait encore son épée et quelques joyaux cachés, mais son véritable trésor était la certitude qui brûlait dans ses veines.
 Cinq ans. Cinq ans de fer pour en arriver là. Alors qu'il galopait sous la lune, Edrin sentit enfin le poids de son armure s'alléger. Ce n'était plus le fardeau du devoir, c'était le bouclier d'une promesse. Il ne rentrait pas comme un sauveur, mais comme un naufragé volontaire, prêt à s'écraser contre les récifs de Brunehame pour que la vie, une dernière fois, puisse y fleurir en paix.
+
 
 CHAPITRE 21 : LE POIDS DU SILENCE
 Le printemps sur Brunehame n'était cette année qu'un mensonge amer. Le soleil, d'ordinaire capable de percer la brume pour réchauffer le granit, restait voilé derrière une nappe de nuages laiteux qui ne laissaient filtrer qu'une lumière blafarde, privant l'île de sa renaissance habituelle. Alma passait ses journées à arpenter les falaises, les yeux brûlés par le sel et le manque de sommeil. Elle ne cherchait plus de nouvelles pousses de digitale ou de reine-des-prés ; elle scrutait les courants, là où l'eau changeait de couleur, là où le destin risquait de surgir du néant.
@@ -746,12 +773,13 @@ En marchant vers le port, Edrin sentit le vent tourner brusquement au Nord-Est. 
 Il n'était plus un chevalier fuyant sa culpabilité, cherchant l'oubli dans le labour d'un champ. Il était un loup retournant à sa tanière pour protéger la seule chose sacrée qu'il ait jamais connue. En posant le pied sur le pont mouillé de L'Errant, il signa sa sentence de mort aux yeux des hommes, mais il trouva enfin sa propre rédemption.
 — Larguez les amarres, grogna-t-il alors que la silhouette de Val-de-Gris s'effaçait dans la brume. Cap sur le Nord. Et que les dieux ferment les yeux sur ce que nous allons devenir pour survivre.
 
+
 CHAPITRE 23 : LE CIEL CUIVRÉ
 Le silence qui s'était abattu sur Brunehame au petit matin n'était plus celui de la paix bucolique des étés précédents. C’était un silence minéral, un poids mort qui semblait compresser la poitrine de quiconque s'aventurait sur les hauteurs. Depuis trois jours, la nature avait envoyé ses derniers avertissements, des signaux que seule une femme comme Alma, dont les racines plongeaient aussi profondément que celles des genévriers dans la roche, pouvait interpréter.
 Les oiseaux de mer, d’ordinaire si querelleurs, avaient été les premiers à céder à l’instinct de fuite. Alma les avait vus partir à l’aube du premier jour : des milliers de guillemots et de macareux quittant leurs nids dans un tumulte d'ailes frénétiques, formant un ruban de deuil qui s'étirait vers le Nord profond, là où les glaces éternelles offraient un refuge plus sûr que Brunehame. Leurs cris de terreur avaient résonné contre les parois de granit avant de s'éteindre, laissant derrière eux des falaises nues, étrangement dépeuplées, comme si l'île avait déjà commencé à mourir.
 Alma se tenait sur le seuil de sa chaumière, les mains croisées sous son tablier de grosse toile brune. Elle observait le ciel. Il n’était plus bleu, ni gris, ni même blanc de brume. Il avait pris une teinte cuivrée, une couleur de soufre et de métal chauffé à blanc qui semblait irradier une chaleur malsaine. Aucun vent ne venait rafraîchir la lande. L’air était saturé d’une odeur de sel rassis et de vase ancienne, cette odeur que la mer régurgite des fosses les plus profondes lorsqu'elle se prépare à une convulsion.
 — Alma ?
-La voix de Lys, derrière elle, était un murmure fragile qui peinait à percer la lourdeur de l'air. La jeune fille était devenue une silhouette élancée, aux gestes précis, mais en cet instant, ses yeux écarquillés trahissaient l'enfant terrifiée qui sommeillait encore en elle. Elle tenait nerveusement la petite baleine de bois d'Edrin, ses doigts frottant le grain du cèdre.
+La voix de Lys, maintenant âgée de onze ans, derrière elle, était un murmure fragile qui peinait à percer la lourdeur de l'air. La jeune fille était devenue une silhouette élancée, aux gestes précis, mais en cet instant, ses yeux écarquillés trahissaient l'enfant terrifiée qui sommeillait encore en elle. Elle tenait nerveusement la petite baleine de bois d'Edrin, ses doigts frottant le grain du cèdre.
 — Ne regarde pas le ciel, Lys, répondit Alma sans se retourner. Regarde la terre. Elle sait ce qui vient.
 Au loin, sur les îlots qui parsemaient l'archipel comme des éclats de verre, les premiers feux de détresse s'étaient allumés. De petites pulsations orange, intermittentes, qui parlaient de voiles noires et de fer froid. Brunehame était la prochaine sur la liste.
 Alma rentra dans la pièce principale et ferma la porte derrière elle, non pour se cacher, mais pour commencer son œuvre. La chaumière de Maëla, ce lieu de soins et de secrets herboristes, devait subir une métamorphose finale. Alma ne se contenta pas de ranger ; elle réorganisa l’espace avec la rigueur d’un général de camp de bataille. Elle poussa la lourde table de chêne au centre de la pièce, ses pieds raclant le sol de terre battue dans un gémissement qui sembla réveiller les esprits de la maison. Elle passa sa main sur le bois sombre, s’attardant sur les cicatrices et les taches de sève. C’était sur ce bois qu’Edrin avait reposé, cinq ans plus tôt, une masse de fer et de sang mourante. Aujourd’hui, elle y disposait des instruments de survie : des scalpels de bronze polis jusqu’à l’éclat, des rouleaux de lin blanchis au sel de mer et bouillis, des flacons d'alcool de grain pur dont les vapeurs piquaient les yeux.
@@ -767,7 +795,7 @@ Le temps de l'attente était terminé. Le temps du sacrifice venait de commencer
 CHAPITRE 24 : COURSE CONTRE L’ABÎME
 Le L’Errant n’était plus qu’une coque de noix suppliciée, un débris de bois et de clous luttant contre l'immensité liquide. La tempête d'équinoxe, celle que les marins du Nord appellent « la Briseuse de Vertèbres », s'était abattue sur eux avec une malveillance presque consciente. La mer n'était plus de l'eau ; c'était une succession de murs de granit liquide, des montagnes d'ébène couronnées d'une écume hurlante qui s'abattaient sur le pont dans un fracas de fin du monde.
 Edrin n'occupait plus la place du commandement sur le gaillard d'arrière. Il était là où l'effort était le plus pur, le plus brutal : sur le banc de nage.
-Il avait dépouillé son armure, cette carapace de fer qui l'avait défini pendant vingt ans. Il était torse nu, sa peau exposée au fouet de l'eau glacée et du vent. Ses muscles, autrefois sculptés pour porter le poids d'un espadon, étaient bandés jusqu'à la rupture. Il occupait le banc de tête, marquant la cadence d'une voix qui n'était plus qu'un grondement de gorge, car le vent lui volait ses mots dès qu'ils franchissaient ses lèvres.
+Il jeta son espadon au fond de la barque et s'installa. Il avait besoin de chaque once de mobilité. Il ramait nu jusqu'à la ceinture, défiant les embruns, mais il garda son armure à portée de main, calée contre le bordage.
 À ses côtés, Kael, l'ancien vétéran d'Aigue-Morte, et une dizaine de déserteurs ramaient dans un état de transe terrorisée. Il n'y avait plus de "Ser Edrin", plus de "Capitaine" ou de "Subalterne". Il n'y avait que des hommes condamnés, unis par un bois de frêne et une peur viscérale d'être engloutis. Chaque fois que le navire plongeait dans un creux de vague, les rames frappaient le vide, puis, avec un choc à briser les poignets, elles rencontraient de nouveau la résistance de l'eau noire.
 — Poussez ! rugissait Edrin, ses veines saillantes sur son cou comme des cordages. Poussez pour vos vies !
 Ses mains étaient un désastre. La corne des paumes avait éclaté sous la friction constante des rames saturées de sel. Le sang coulait le long du bois, se mêlant à l'eau de mer avant d'être lavé par la vague suivante. Il ressentait chaque vibration du navire dans sa moelle épinière. Il sentait la structure gémir, les membrures se tordre, la menace de la dislocation totale à chaque instant.
@@ -781,7 +809,7 @@ La vision de cet incendie agit sur Edrin comme une décharge électrique. La fat
 — On ne cherche pas la passe ! rugit-il vers le timonier qui tentait désespérément de maintenir le cap. On fonce droit sur les récifs de l'Est !
 — C'est un suicide, Messire ! On va défoncer la coque !
 — On s'en fiche de la coque ! On brise le bois sur la pierre, mais on met les pieds sur cette terre ! Ramez ! Ramez jusqu'à ce que vos cœurs éclatent !
-Le rythme s'accéléra. Le L'Errant bondissait maintenant de crête en crête, porté par une volonté qui dépassait les lois de la navigation. Edrin, les mains soudées à la rame, sentait chaque grain de l'orge de Brunehame brûler dans son estomac comme un charbon ardent. Il n'était plus un déserteur en fuite. Il était le fer qui revenait vers sa forge, la tempête rentrant chez elle pour éteindre le feu.
+Le rythme s'accéléra. L'Errant bondissait maintenant de crête en crête, porté par une volonté qui dépassait les lois de la navigation. Edrin, les mains soudées à la rame, sentait chaque grain de l'orge de Brunehame brûler dans son estomac comme un charbon ardent. Il n'était plus un déserteur en fuite. Il était le fer qui revenait vers sa forge, la tempête rentrant chez elle pour éteindre le feu.
 Alors que les premières roches noires de l'île commençaient à gronder sous l'écume, Edrin lâcha enfin la rame. Il se leva, sa peau luisante sous la pluie, et saisit son épée. Il regarda la chaumière tout en haut de la colline, silhouette minuscule entourée par la menace. Il savait qu'il n'arriverait peut-être pas à temps pour sauver les murs, mais il arrivait pour réclamer sa place dans les cendres.
 CHAPITRE 25 : LE PREMIER SANG
 Le débarquement des mercenaires dans la Crique des Pendus ne fut pas une manœuvre militaire élégante, mais une éruption de chaos organisé. Les dromons aux coques goudronnées s'échouèrent avec un gémissement de bois broyé contre les galets humides, libérant immédiatement une marée de silhouettes hérissées de fer. L'eau de la crique, d'ordinaire si translucide qu'on y voyait les bancs de lieus, devint en un instant une soupe opaque de vase remuée, d'huile de graissage et de sang prématuré.
@@ -798,13 +826,14 @@ En haut, Alma sentait chaque choc dans sa propre chair. Elle avait commencé à 
 Le sentier de la Crique des Pendus devint un abattoir. Le sang des hommes commençait à se mêler à l'eau de pluie, rendant la roche plus glissante que s'ils avaient été en pleine tempête. Ivar était devenu une figure de cauchemar, couvert d'une croûte de sang et de suie, sa gaffe frappant sans relâche, une machine de guerre née de la nécessité pure.
 — On ne recule pas ! hurlait-il, sa voix s'enrouant sous l'effet de la fumée. Si on tombe, Brunehame tombe avec nous !
 C'était le sacrifice des petites gens. Des hommes qui ne savaient rien des blasons ou des droits divins, mais qui comprenaient que leur terre, aussi stérile et dure soit-elle, méritait d'être nourrie par leurs veines. Alma atteignit le premier poste de défense alors qu'on y ramenait un jeune garçon, le ventre ouvert par une lame. Elle s'agenouilla dans la boue, ses mains de soigneuse plongeant dans l'horreur rouge. Elle ne vit pas une petite troupe de soldats en armures de jais, bien plus disciplinés que les mercenaires, commencer à escalader la corniche Est, à l'opposé du combat principal. Valerius venait de lancer ses chiens pour cueillir la soigneuse.
-Le premier sang de Brunehame n'était plus une métaphore. C'était un fleuve qui coulait vers la mer, appelant le seul homme capable de transformer ce massacre en justice. Au large, à travers le rideau de flammes et de brume, la silhouette brisée du L’Errant apparaissait enfin, fonçant vers le récif comme un javelot lancé par un dieu en colère. Valerius, sur son pont, rangea sa longue-vue.
+Le premier sang de Brunehame n'était plus une métaphore. C'était un fleuve qui coulait vers la mer, appelant le seul homme capable de transformer ce massacre en justice. Au large, à travers le rideau de flammes et de brume, la silhouette brisée du Errant apparaissait enfin, fonçant vers le récif comme un javelot lancé par un dieu en colère. Valerius, sur son pont, rangea sa longue-vue.
 — Enfin, murmura-t-il. Le Lion rentre au bercail pour son exécution.
+
 
 CHAPITRE 26 : LE SACRIFICE DE LA SOIGNEUSE
 Le fracas de la bataille en bas, au niveau du sentier d'Ivar, arrivait jusqu’à la chaumière sous la forme d’un grondement sourd, semblable au tonnerre lointain d'un orage d'été. Mais ici, sur les hauteurs de la falaise, l’air était d'un calme contre-nature, seulement troublé par le sifflement du vent dans les herbes sèches.
 À quelques dizaines de toises de la demeure, dissimulé par un repli de terrain, Valerius observait. Ses gantelets de jais étaient croisés sur son plastron poli. Il ne participait pas à l'assaut ; il laissait la lie des mercenaires s'épuiser contre les murs. Pour lui, ce n'était qu'une battue. Il avait envoyé ses propres hommes d'élite sur la corniche Est pour s'assurer que personne ne s'échappe, mais il avait laissé les pillards entrer les premiers. Il voulait qu'Edrin arrive dans un champ de ruines.
-Alma se tenait près de l'unique fenêtre, observant les ombres qui se détachaient de la brume. Les mercenaires n'avaient pas tous suivi le sentier principal ; certains, plus agiles ou plus fourbes, avaient contourné la défense en escaladant les corniches de l’Est, là où la roche est si friable que personne n'aurait cru un homme capable d'y trouver appui.
+Alma qui était revenue à la chaumière, se tenait près de l'unique fenêtre, observant les ombres qui se détachaient de la brume. Les mercenaires n'avaient pas tous suivi le sentier principal ; certains, plus agiles ou plus fourbes, avaient contourné la défense en escaladant les corniches de l’Est, là où la roche est si friable que personne n'aurait cru un homme capable d'y trouver appui.
 — Ils sont sur la crête, Alma, chuchota Lys.
 Sa voix était blanche, un fil ténu prêt à rompre. Elle tenait une petite hache de bûcheron, ses jointures blanchies par la force de sa prise. Valerius, dehors, entendit presque ce murmure. Il leva une main, et ses arbalétriers se mirent en joue, non pas vers la maison, mais vers le sentier montant du village, attendant le Lion.
 Alma ne répondit pas immédiatement. Elle s'approcha du foyer où bouillait une grande marmite de résine de pin mêlée à des baies de belladone. Une fumée épaisse, jaunâtre et à l'odeur de terre pourrie, commençait à ramper sur le sol.
@@ -833,10 +862,9 @@ Le sacrifice de la soigneuse avait pris fin ; le temps du châtiment commençait
 
 
 CHAPITRE 27 : LE CRI DU LION
-Le L’Errant n’accosta pas. Il s’écrasa.
-Dans un rugissement de bois déchiré et de fer tordu, la proue du navire de fortune vint s'encastrer entre deux récifs affleurants à l'entrée de la passe Est. Le choc fut si violent que les hommes restés sur le pont furent projetés en avant comme des poupées de paille. Edrin, lui, avait anticipé l'impact. Ses genoux fléchis absorbèrent la secousse, et avant même que l'écume ne soit retombée, il était déjà dans l'eau glacée, son épée immense levée vers le ciel de cuivre.
+L’Errant n’accosta pas. Il s’écrasa.
+Dans un rugissement de bois déchiré et de fer tordu, la proue du navire de fortune vint s'encastrer entre deux récifs affleurants à l'entrée de la passe Est. Le choc fut si violent que les hommes restés sur le pont furent projetés en avant comme des poupées de paille. Edrin, lui, avait anticipé l'impact. Il ne perdit pas une seconde. Aidé par Kael, il glissa ses bras dans la maille et verrouilla son plastron. Le fer était froid, mais il était sa vérité. Il sauta dans l'écume, l'épée à la main, une silhouette de métal hurlant sous le ciel de cuivre.
 — À terre ! hurla-t-il, sa voix dominant le fracas des vagues. À terre ou crevez dans l'eau !
-Depuis le pont de son navire de guerre, à l'abri des brisants, Valerius observa cette entrée en scène. Un léger hochement de tête salua la prouesse. « Toujours aussi théâtral, mon frère », pensa-t-il en ajustant son collet d'acier. Il fit un signe à ses troupes d'élite : ils ne bougeraient pas encore. Il fallait laisser le Lion s'épuiser contre la meute avant de porter l'estocade.
 Edrin n’attendit pas ses hommes. Il chargea à travers les brisants, l'eau lui montant jusqu'à la poitrine, chaque pas étant une lutte contre le ressac qui tentait de l'aspirer. Lorsqu'il atteignit la grève, il n'était plus le chevalier poli d'Ondeval. Il était une force de la nature, une ombre de suie et de sel, les yeux brûlant d'une fièvre que même l'océan n'avait pu éteindre.
 Le spectacle qui s'offrit à lui alors qu'il franchissait la première dune de sable fut une lame de poignard en plein cœur. Brunehame, son refuge, son monastère de roche, était un bûcher. Les hangars de séchage, où il avait aidé Ivar à suspendre les filets, n'étaient plus que des squelettes incandescents. Les cris des femmes et le rire gras des mercenaires déchiraient l'air saturé de fumée.
 Sa propre guerre l'avait suivi. Son passé avait retrouvé sa trace et ravageait son présent.
@@ -845,7 +873,7 @@ Un groupe de trois mercenaires, chargés de butin dérisoire — des linges de l
 Edrin ne répondit pas. Il n'avait plus de mots. Il n'avait plus qu'un cri, un rugissement qui prit naissance au plus profond de ses entrailles, là où l'orge de Brunehame brûlait encore. Ce n'était pas un cri de guerre ; ce fut un cri de dépossession.
 Il fondit sur eux. Le premier mercenaire fut fauché avant même d'avoir pu lever son arme, la lame d'Edrin tranchant le fer et la chair avec une facilité terrifiante. Les deux autres tentèrent de l'encercler, mais Edrin ne se battait plus selon les règles de l'escrime. Il maniait son épée comme un fléau, utilisant sa force brute pour briser les gardes et les os. Il était le Lion, mais un lion acculé, protégeant sa tanière.
 Il ne s'arrêta pas pour achever les mourants. Il commença l'ascension.
-Chaque pas sur le sentier de la falaise était un calvaire. Ses poumons, malmenés par l'effort de la rame, le brûlaient. Ses pieds nus s'entaillaient sur les pierres tranchantes de granit. Mais il ne sentait rien. Il ne voyait qu'une seule chose, tout en haut : la silhouette de la chaumière de Maëla.
+Chaque pas sur le sentier de la falaise était un calvaire. Ses poumons, malmenés par l'effort de la rame, le brûlaient. Mais il ne sentait rien. Il ne voyait qu'une seule chose, tout en haut : la silhouette de la chaumière de Maëla.
 Lorsqu'il vit la fumée noire s'échapper du toit de chaume, son cœur manqua un battement.
 — Alma... murmura-t-il, sa voix s'étranglant dans sa gorge.
 Il accéléra, ses jambes le portant par-delà l'épuisement. Il croisa des villageois en fuite, des visages qu'il reconnaissait. Ils le regardaient passer comme une apparition divine ou démoniaque, mais il ne leur accorda pas un regard. Il cherchait une porte de bois précise. Il cherchait la femme qui lui avait appris que ses mains pouvaient servir à autre chose qu'à donner la mort.
@@ -1002,6 +1030,7 @@ Alma ferma les yeux, épuisée, mais apaisée.
 La pluie d’eau morte continuait de tomber sur Brunehame. Elle n’apportait aucune promesse. Elle effaçait seulement les braises.
 Sous le toit brisé, deux survivants restaient immobiles, conscients que la terre ne rend jamais le grain intact, mais qu’elle consent parfois à laisser les hommes essayer.
 
+
 ÉPILOGUE : LES SEMAILLES DU SILENCE
 Un an avait passé depuis que le ciel de Brunehame avait cessé de pleurer des cendres.
 Le jour se levait sur l'archipel avec une clarté de cristal, lavant les falaises de granit et faisant scintiller l'écume des brisants. C’était le jour de la grande semaille, celui où l’on confiait à la terre les espoirs de l’hiver à venir. Mais pour Alma et Edrin, ce jour avait une saveur bien plus profonde : c’était l’anniversaire de leur seconde vie.
@@ -1025,6 +1054,3 @@ Elle se détourna ensuite et reprit le chemin du village.
 Edrin resta seul un instant. Puis il inspira, ajusta sa besace et reprit la semaille, plus lentement.
 Au loin, la mer battait la falaise.
 FIN.
-
-
-

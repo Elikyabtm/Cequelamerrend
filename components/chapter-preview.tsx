@@ -32,7 +32,7 @@ export function ChapterPreview() {
             Chapitre 1
           </span>
           <h2 className="mt-4 font-serif text-4xl tracking-wide text-foreground md:text-5xl">
-            Le Chant des Abimes
+            Le Chant des Abîmes
           </h2>
           <div className="mx-auto mt-6 h-px w-24 bg-primary/40" />
         </div>
@@ -59,17 +59,17 @@ export function ChapterPreview() {
             <div className="relative space-y-6 text-lg leading-relaxed text-foreground/80">
               <p className="first-letter:float-left first-letter:mr-3 first-letter:font-serif first-letter:text-6xl first-letter:leading-none first-letter:text-primary">
                 {
-                  "Le vent sur Brunehame ne se contentait pas de souffler ; il hurlait comme une bete affamee, cherchant chaque interstice dans les murs de pierre seche et chaque faille dans les articulations des vieux. Ce matin-la, il avait l'odeur de la tempete de la veille : un parfum de varech arrache, de sable remue et de bois mort."
+                  "Le vent sur Brunehame ne se contentait pas de souffler ; il hurlait comme une bête affamée, cherchant chaque interstice dans les murs de pierre sèche et chaque faille dans les articulations des vieux. Ce matin-là, il avait l'odeur de la tempête de la veille : un parfum de varech arraché, de sable remué et de bois mort."
                 }
               </p>
               <p>
                 {
-                  "Dans l'obscurite de la chaumiere, Alma ouvrit les yeux avant que la premiere lueur n'effleure l'horizon. Elle resta immobile sous sa couverture de laine rugueuse, ecoutant le souffle du monde."
+                  "Dans l'obscurité de la chaumière, Alma ouvrit les yeux avant que la première lueur n'effleure l'horizon. Elle resta immobile sous sa couverture de laine rugueuse, écoutant le souffle du monde."
                 }
               </p>
               <p>
                 {
-                  "C'etait un silence particulier, celui qui suit les grands fracas de l'ocean, un silence lourd de tout ce que la mer avait englouti durant la nuit. Elle sentait le froid s'insinuer sous la porte, rampant sur le sol de terre battue comme une main invisible cherchant la chaleur du foyer."
+                  "C'était un silence particulier, celui qui suit les grands fracas de l'océan, un silence lourd de tout ce que la mer avait englouti durant la nuit. Elle sentait le froid s'insinuer sous la porte, rampant sur le sol de terre battue comme une main invisible cherchant la chaleur du foyer."
                 }
               </p>
 

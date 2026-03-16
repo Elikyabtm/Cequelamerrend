@@ -32,14 +32,14 @@ export default function ChapitresPage() {
         {/* Title */}
         <div className="mb-20 text-center">
           <span className="font-serif text-xs uppercase tracking-[0.4em] text-primary">
-            Table des matieres
+            Table des matières
           </span>
           <h1 className="mt-4 font-serif text-4xl tracking-wide text-foreground md:text-5xl text-balance">
             Les Chapitres
           </h1>
           <p className="mx-auto mt-6 max-w-lg text-muted-foreground leading-relaxed">
             {
-              "Trente chapitres et un epilogue pour raconter le destin d'Edrin et Alma, entre le fer des batailles et le sel de Brunehame."
+              "Trente chapitres et un épilogue pour raconter le destin d'Edrin et Alma, entre le fer des batailles et le sel de Brunehame."
             }
           </p>
           <div className="mx-auto mt-8 h-px w-24 bg-primary/40" />
@@ -50,9 +50,9 @@ export default function ChapitresPage() {
           {chapters.map((chapter, index) => {
             const label =
               chapter.number === 0
-                ? "Preface"
+                ? "Préface"
                 : chapter.number === 99
-                  ? "Epilogue"
+                  ? "Épilogue"
                   : `Chapitre ${chapter.number}`;
 
             return (
@@ -105,7 +105,7 @@ export default function ChapitresPage() {
                 d="M15 19l-7-7 7-7"
               />
             </svg>
-            {"Retour a l'ile"}
+            {"Retour à l'île"}
           </Link>
         </div>
       </div>

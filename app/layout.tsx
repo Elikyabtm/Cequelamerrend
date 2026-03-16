@@ -19,7 +19,7 @@ const lora = Lora({
 export const metadata: Metadata = {
   title: "Ce que la mer rend | Brunehame",
   description:
-    "Le fer a une memoire. Decouvrez le recit d'Edrin et Alma sur l'ile oubliee de Brunehame, ou la maree ne rend jamais seulement du bois flotte.",
+    "Le fer a une mémoire. Découvrez le récit d'Edrin et Alma sur l'île oubliée de Brunehame, où la marée ne rend jamais seulement du bois flotté.",
 };
 
 export const viewport: Viewport = {
